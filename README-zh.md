@@ -4,8 +4,6 @@
 
 :triangular_flag_on_post:  This repo is a collection of awesome captcha libraries and captcha crack tools.
 
-[English](README.md) | [中文](README-zh.md)
-
 ## Contents
 
 - [Libraries](#libraries)
