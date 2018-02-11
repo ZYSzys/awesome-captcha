@@ -1,8 +1,11 @@
 # awesome-captcha
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![license](https://img.shields.io/github/license/ZYSzys/awesome-captcha.svg)](https://github.com/ZYSzys/awesome-captcha/blob/master/LICENSE)
 
-:triangular_flag_on_post:  This repo is a collection of awesome captcha libraries and captcha crack tools.
+:triangular_flag_on_post:  This repo is a collection of awesome captcha libraries and captcha crack tools.  
+**Welcome to PR～～～**
+
+[English](README.md) | [中文](README-zh.md)
 
 ## Contents
 
@@ -31,10 +34,10 @@
 - [simple-captcha-solver](https://github.com/ptigas/simple-captcha-solver) - simple CAPTCHA solver in python 🐍.
 - [SimGAN-Captcha](https://github.com/rickyhan/SimGAN-Captcha) - Solve captcha without manually labeling a training set.
 - [captcha](https://github.com/HLearning/captcha) - crack captcha using CNN.
-- [CAPTCHA-breaking](https://github.com/lllcho/CAPTCHA-breaking)
 - [captcha.irctc](https://github.com/arunpatala/captcha.irctc) - Reading irctc captchas with 98% accuracy using deep learning.
 - [captcha-tensorflow](https://github.com/JackonYang/captcha-tensorflow) - Image Captcha Solving Using TensorFlow and CNN Model.
 - [CNN_keras](https://github.com/skyduy/CNN_keras) - CNN | Keras | CAPTCHA recognition（卷积神经网络、Keras框架、验证码识别）.
+- [CAPTCHA-breaking](https://github.com/lllcho/CAPTCHA-breaking)
 
 
 ## Tools
