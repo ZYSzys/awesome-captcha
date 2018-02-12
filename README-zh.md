@@ -10,7 +10,10 @@
 ## Contents
 
 - [Libraries](#libraries)
+- [Generation](#generation)
 - [Crack](#crack)
+    - [General](#general)
+    - [Chinese](#chinese)
 - [Tools](#tools)
 - [Other](#other)
 
@@ -19,16 +22,23 @@
 
 - [captcha](https://github.com/mewebstudio/captcha) - Captcha for Laravel 5.
 - [Captcha](https://github.com/Gregwar/Captcha) - PHP Captcha library.
-- [captcha](https://github.com/dchest/captcha) - Go package captcha implements generation and verification of image and audio CAPTCHAs.
-- [captcha](https://github.com/lepture/captcha) - A captcha library that generates audio and image CAPTCHAs.
 - [captcha](https://github.com/trekjs/captcha) - A Lightweight Pure JavaScript Captcha for Node.js. No C/C++, No ImageMagick, No Canvas.
 - [patchca](https://github.com/pusuo/patchca) - Simple yet powerful CAPTCHA library written in Java.
 
 
+## Generation
+- [captcha](https://github.com/dchest/captcha) - Go package captcha implements generation and verification of image and audio CAPTCHAs.
+- [captcha](https://github.com/lepture/captcha) - A captcha library that generates audio and image CAPTCHAs.
+- [svg-captcha](https://github.com/lemonce/svg-captcha) - generate svg captcha in node.
+- [ccap](https://github.com/DoubleSpout/ccap) - node.js generate captcha using c++ library CImg without install any other lib or software.
+- [captchagen](https://github.com/contra/captchagen) - Captcha generation for NodeJS.
+
+
 ## Crack
 
-- [cpatcha](https://github.com/arunpatala/captcha) - Breaking captchas using torch.
-- [CAPTCHA](https://github.com/zakizhou/CAPTCHA) - implement classification for CAPTCHA in TensorFlow.
+### General
+- [captcha](https://github.com/arunpatala/captcha) - 使用torch破解验证码。
+- [CAPTCHA](https://github.com/zakizhou/CAPTCHA) - 使用Tensorflow进行验证码分类。
 - [captcha-break](https://github.com/nladuo/captcha-break) - captcha break based on opencv2, tesseract-ocr and some machine learning algorithm.
 - [captcha_break](https://github.com/ypwhs/captcha_break) - captcha break using CNN with Keras.
 - [simple-captcha-solver](https://github.com/ptigas/simple-captcha-solver) - simple CAPTCHA solver in python 🐍.
@@ -37,7 +47,13 @@
 - [captcha.irctc](https://github.com/arunpatala/captcha.irctc) - Reading irctc captchas with 98% accuracy using deep learning.
 - [captcha-tensorflow](https://github.com/JackonYang/captcha-tensorflow) - Image Captcha Solving Using TensorFlow and CNN Model.
 - [CNN_keras](https://github.com/skyduy/CNN_keras) - CNN | Keras | CAPTCHA recognition（卷积神经网络、Keras框架、验证码识别）.
+- [captcha_recognize](https://github.com/PatrickLib/captcha_recognize) - Image Recognition captcha without image segmentation.
+- [captcha_svm](https://github.com/zhengwh/captcha-svm) - Use svm to hack simple captcha.
 - [CAPTCHA-breaking](https://github.com/lllcho/CAPTCHA-breaking)
+
+### Chinese
+- [cnn_handwritten_chinese_recognition](https://github.com/taosir/cnn_handwritten_chinese_recognition) - CNN在线识别手写中文。
+- [Chinese-Character-Recognition](https://github.com/soloice/Chinese-Character-Recognition) - 使用CNN进行中文识别。
 
 
 ## Tools
@@ -46,9 +62,6 @@
 - [negative-captcha](https://github.com/subwindow/negative-captcha) - A plugin to make the process of creating a negative captcha in Rails much less painful.
 - [django-simple-captcha](https://github.com/mbi/django-simple-captcha) - An extremely simple, yet highly customizable Django application to add captcha images to any Django form.
 - [securimage](https://github.com/dapphp/securimage) - PHP CAPTCHA Script.
-- [svg-captcha](https://github.com/lemonce/svg-captcha) - generate svg captcha in node.
-- [ccap](https://github.com/DoubleSpout/ccap) - node.js generate captcha using c++ library CImg without install any other lib or software.
-- [captchagen](https://github.com/contra/captchagen) - Captcha generation for NodeJS.
 
 
 ## Other
