@@ -52,7 +52,8 @@
 - [CAPTCHA-breaking](https://github.com/lllcho/CAPTCHA-breaking)
 
 ### Chinese
-- [cnn_handwritten_chinese_recognition](https://github.com/taosir/cnn_handwritten_chinese_recognition) - CNN在线识别手写中文。
+- [chinese_hand_write_rec](https://github.com/burness/tensorflow-101/tree/master/chinese_hand_write_rec/src) - handwritten chinese recognition.
+- [cnn_handwritten_chinese_recognition](https://github.com/taosir/cnn_handwritten_chinese_recognition) - As the name shows, handwritten_chinese_recognition with cnn.
 - [Chinese-Character-Recognition](https://github.com/soloice/Chinese-Character-Recognition) - This project shows how to use CNN to perform Chinese character recognition, a much more complicated task compared to MNIST digit recognition.
 
 ## Tools

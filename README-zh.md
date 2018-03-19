@@ -52,6 +52,7 @@
 - [CAPTCHA-breaking](https://github.com/lllcho/CAPTCHA-breaking)
 
 ### Chinese
+- [chinese_hand_write_rec](https://github.com/burness/tensorflow-101/tree/master/chinese_hand_write_rec/src) - 手写中文识别。
 - [cnn_handwritten_chinese_recognition](https://github.com/taosir/cnn_handwritten_chinese_recognition) - CNN在线识别手写中文。
 - [Chinese-Character-Recognition](https://github.com/soloice/Chinese-Character-Recognition) - 使用CNN进行中文识别。
 
@@ -61,7 +62,7 @@
 - [MotionCAPTCHA](https://github.com/wjcrowcroft/MotionCAPTCHA) - MotionCAPTCHA jQuery Plugin - Stop Spam, Draw Shapes.
 - [negative-captcha](https://github.com/subwindow/negative-captcha) - A plugin to make the process of creating a negative captcha in Rails much less painful.
 - [django-simple-captcha](https://github.com/mbi/django-simple-captcha) - An extremely simple, yet highly customizable Django application to add captcha images to any Django form.
-- [securimage](https://github.com/dapphp/securimage) - PHP CAPTCHA Script.
+- [securimage](https://github.com/dapphp/securimage) - PHP验证码脚本。
 
 
 ## Other
