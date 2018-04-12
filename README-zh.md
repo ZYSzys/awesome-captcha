@@ -1,6 +1,5 @@
-# awesome-captcha
+# Awesome Captcha
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![license](https://img.shields.io/github/license/ZYSzys/awesome-captcha.svg)](https://github.com/ZYSzys/awesome-captcha/blob/master/LICENSE)
 
 :triangular_flag_on_post:  This repo is a collection of awesome captcha libraries and captcha crack tools.  
 **Welcome to PR～～～**
@@ -70,3 +69,20 @@
 ## Other
 
 - [visualCaptcha](https://github.com/emotionLoop/visualCaptcha) - A collection of all the different versions/repos of visualCaptcha.
+
+
+## Maintainers
+
+- [@ZYSzys](https://github.com/ZYSzys)
+
+
+## Contribute
+
+Please do! Check out the [CONTRIBUTING](CONTRIBUTING.md) file, and [open an issue](https://github.com/ZYSzys/awesome-captcha/issues/new)!
+
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [ZYSzys](https://github.com/ZYSzys) has waived all copyright and related or neighboring rights to this work.
