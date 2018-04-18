@@ -1,5 +1,6 @@
 # Awesome Captcha
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 :triangular_flag_on_post:  This repo is a collection of awesome captcha libraries and captcha crack tools.  
 **Welcome to PR～～～**
