@@ -31,6 +31,9 @@
 - [svg-captcha](https://github.com/lemonce/svg-captcha) - generate svg captcha in node.
 - [ccap](https://github.com/DoubleSpout/ccap) - node.js generate captcha using c++ library CImg without install any other lib or software.
 - [captchagen](https://github.com/contra/captchagen) - Captcha generation for NodeJS.
+- [CaptchaImageView](https://github.com/jineshfrancs/CaptchaImageView) - 自定义ImageView生成验证码图像。
+- [SwipeCaptcha](https://github.com/mcxtzhang/SwipeCaptcha) - Android平台的滑动验证码。
+- [base64Captcha](https://github.com/mojocn/base64Captcha) - 快速生成base64编码图片验证码字符串.base64图形验证码(captcha)为golang而设计.
 
 
 ## Crack
@@ -56,6 +59,7 @@
 - [Chinese-Character-Recognition](https://github.com/soloice/Chinese-Character-Recognition) - 使用CNN进行中文识别。
 - [zheye](https://github.com/muchrooms/zheye) - 者也 - 知乎 倒立的文字 汉字验证码识别程序。
 - [12306-captcha](https://github.com/aaronshan/12306-captcha) - 基于深度学习的12306验证码识别。
+- [geetest_break](https://github.com/FanhuaandLuomu/geetest_break) - 极验验证码破解-源码+手册。
 
 
 ## Tools
