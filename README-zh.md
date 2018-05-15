@@ -52,6 +52,8 @@
 - [CNN_keras](https://github.com/skyduy/CNN_keras) - CNN | Keras | CAPTCHA recognition（卷积神经网络、Keras框架、验证码识别）.
 - [captcha_recognize](https://github.com/PatrickLib/captcha_recognize) - Image Recognition captcha without image segmentation.
 - [captcha_svm](https://github.com/zhengwh/captcha-svm) - Use svm to hack simple captcha.
+- [captcha_cracker](https://github.com/chxj1992/captcha_cracker) - crack captcha with CNN.
+- [slide_captcha_cracker](https://github.com/chxj1992/slide_captcha_cracker) - Canny算子边缘检测识别滑动验证码.
 - [CAPTCHA-breaking](https://github.com/lllcho/CAPTCHA-breaking)
 
 ### Chinese
@@ -65,6 +67,7 @@
 
 ## Tools
 
+- [tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract开源光学字符识别(**OCR**)引擎.
 - [MotionCAPTCHA](https://github.com/wjcrowcroft/MotionCAPTCHA) - MotionCAPTCHA jQuery Plugin - Stop Spam, Draw Shapes.
 - [negative-captcha](https://github.com/subwindow/negative-captcha) - A plugin to make the process of creating a negative captcha in Rails much less painful.
 - [django-simple-captcha](https://github.com/mbi/django-simple-captcha) - An extremely simple, yet highly customizable Django application to add captcha images to any Django form.
