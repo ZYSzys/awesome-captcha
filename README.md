@@ -54,6 +54,7 @@
 - [captcha_svm](https://github.com/zhengwh/captcha-svm) - Use svm to hack simple captcha.
 - [captcha_cracker](https://github.com/chxj1992/captcha_cracker) - crack captcha with CNN.
 - [slide_captcha_cracker](https://github.com/chxj1992/slide_captcha_cracker) - Crack solution for slide captcha with Canny algorithm.
+- [simple-railway-captcha-solver](https://github.com/JasonLiTW/simple-railway-captcha-solver#english-version) - Simple captcha solver based on CNN and a training set generator by imitating the style of captcha.
 - [CAPTCHA-breaking](https://github.com/lllcho/CAPTCHA-breaking)
 
 ### Chinese
@@ -71,6 +72,7 @@
 - [negative-captcha](https://github.com/subwindow/negative-captcha) - A plugin to make the process of creating a negative captcha in Rails much less painful.
 - [django-simple-captcha](https://github.com/mbi/django-simple-captcha) - An extremely simple, yet highly customizable Django application to add captcha images to any Django form.
 - [securimage](https://github.com/dapphp/securimage) - PHP CAPTCHA Script.
+- [captcha_solver](https://github.com/lorien/captcha_solver) - Univeral API to captcha solving services.
 
 
 ## Other

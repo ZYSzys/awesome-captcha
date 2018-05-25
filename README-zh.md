@@ -54,6 +54,7 @@
 - [captcha_svm](https://github.com/zhengwh/captcha-svm) - Use svm to hack simple captcha.
 - [captcha_cracker](https://github.com/chxj1992/captcha_cracker) - crack captcha with CNN.
 - [slide_captcha_cracker](https://github.com/chxj1992/slide_captcha_cracker) - Canny算子边缘检测识别滑动验证码.
+- [simple-railway-captcha-solver](https://github.com/JasonLiTW/simple-railway-captcha-solver#english-version) - 實作基於CNN的台鐵訂票驗證碼辨識以及驗證性高的訓練集產生器.
 - [CAPTCHA-breaking](https://github.com/lllcho/CAPTCHA-breaking)
 
 ### Chinese
@@ -72,7 +73,7 @@
 - [negative-captcha](https://github.com/subwindow/negative-captcha) - A plugin to make the process of creating a negative captcha in Rails much less painful.
 - [django-simple-captcha](https://github.com/mbi/django-simple-captcha) - An extremely simple, yet highly customizable Django application to add captcha images to any Django form.
 - [securimage](https://github.com/dapphp/securimage) - PHP验证码脚本。
-
+- [captcha_solver](https://github.com/lorien/captcha_solver) - 用于验证码破解服务的通用API接口。
 
 ## Other
 
