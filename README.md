@@ -29,7 +29,7 @@
 ## Generation
 - [Captcha](https://github.com/dchest/captcha) - Go package captcha implements generation and verification of image and audio CAPTCHAs.
 - [Captcha](https://github.com/lepture/captcha) - A captcha library that generates audio and image CAPTCHAs.
-- [SVG-captcha](https://github.com/lemonce/svg-captcha) - Generate svg captcha in node.
+- [SVG-captcha](https://github.com/lemonce/svg-captcha) - Generate svg captcha in Node.js.
 - [Ccap](https://github.com/DoubleSpout/ccap) - Node.js generate captcha using c++ library CImg without install any other lib or software.
 - [Captchagen](https://github.com/contra/captchagen) - Captcha generation for Node.js.
 - [CaptchaImageView](https://github.com/jineshfrancs/CaptchaImageView) - Custom ImageView to generate captcha image.
