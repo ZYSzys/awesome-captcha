@@ -29,9 +29,9 @@
 ## Generation
 - [Captcha](https://github.com/dchest/captcha) - Go package captcha implements generation and verification of image and audio CAPTCHAs.
 - [Captcha](https://github.com/lepture/captcha) - A captcha library that generates audio and image CAPTCHAs.
-- [SVG-captcha](https://github.com/lemonce/svg-captcha) - generate svg captcha in node.
-- [Ccap](https://github.com/DoubleSpout/ccap) - node.js generate captcha using c++ library CImg without install any other lib or software.
-- [Captchagen](https://github.com/contra/captchagen) - Captcha generation for NodeJS.
+- [SVG-captcha](https://github.com/lemonce/svg-captcha) - 用node生成svg格式的验证码.
+- [Ccap](https://github.com/DoubleSpout/ccap) - Node.js generate captcha using c++ library CImg without install any other lib or software.
+- [Captchagen](https://github.com/contra/captchagen) - Captcha generation for Node.js.
 - [CaptchaImageView](https://github.com/jineshfrancs/CaptchaImageView) - 自定义ImageView生成验证码图像。
 - [SwipeCaptcha](https://github.com/mcxtzhang/SwipeCaptcha) - Android平台的滑动验证码。
 - [Base64Captcha](https://github.com/mojocn/base64Captcha) - 快速生成base64编码图片验证码字符串.base64图形验证码(captcha)为golang而设计.
