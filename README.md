@@ -1,5 +1,6 @@
 # Awesome Captcha
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Travis CI](https://travis-ci.org/ZYSzys/awesome-captcha.svg?branch=master)](https://travis-ci.org/ZYSzys/awesome-captcha)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 :triangular_flag_on_post:  This repo is a collection of awesome captcha libraries and captcha crack tools.  
