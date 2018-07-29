@@ -1,7 +1,10 @@
 # Awesome Captcha [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-:triangular_flag_on_post:  This repo is a collection of awesome captcha libraries and captcha crack tools.  
-**Welcome to PR～～～**
+> Curated list of awesome captcha libraries and captcha crack tools.  
+
+[CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) is a type of challenge–response test used in computing to determine whether or not the user is human.  
+
+**Pull requests are welcome**
 
 [English](README.md) | [中文](README-zh.md)
 
