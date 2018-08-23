@@ -21,10 +21,13 @@
 
 ## Libraries
 
-- [Captcha](https://github.com/mewebstudio/captcha) - Captcha for Laravel 5.
-- [Captcha](https://github.com/Gregwar/Captcha) - PHP Captcha library.
-- [Captcha](https://github.com/trekjs/captcha) - A Lightweight Pure JavaScript Captcha for Node.js. No C/C++, No ImageMagick, No Canvas.
-- [Patchca](https://github.com/pusuo/patchca) - Simple yet powerful CAPTCHA library written in Java.
+- [mewebstudio/captcha](https://github.com/mewebstudio/captcha) - Captcha for Laravel 5.
+- [CGregwar/Captcha](https://github.com/Gregwar/Captcha) - PHP Captcha library.
+- [trekjs/captcha](https://github.com/trekjs/captcha) - A Lightweight Pure JavaScript Captcha for Node.js. No C/C++, No ImageMagick, No Canvas.
+- [pusuo/patchca](https://github.com/pusuo/patchca) - Simple yet powerful CAPTCHA library written in Java.
+- [google/recaptcha](https://github.com/google/recaptcha) - PHP client library for reCAPTCHA, a free service to protect your website from spam and abuse.
+- [ambethia/recaptcha](https://github.com/ambethia/recaptcha) - ReCaptcha helpers for ruby apps.
+- [anhskohbo/no-captcha](https://github.com/anhskohbo/no-captcha) - No CAPTCHA reCAPTCHA For Laravel.
 
 
 ## Generation
@@ -57,6 +60,8 @@
 - [Slide_captcha_cracker](https://github.com/chxj1992/slide_captcha_cracker) - Crack solution for slide captcha with Canny algorithm.
 - [Simple-railway-captcha-solver](https://github.com/JasonLiTW/simple-railway-captcha-solver#english-version) - Simple captcha solver based on CNN and a training set generator by imitating the style of captcha.
 - [CAPTCHA-breaking](https://github.com/lllcho/CAPTCHA-breaking) - Breaking the captcha.
+- [ecthros/uncaptcha](https://github.com/ecthros/uncaptcha) - Defeating Google's audio reCaptcha with 85% accuracy.
+
 
 ### Chinese
 - [Chinese_hand_write_rec](https://github.com/burness/tensorflow-101/tree/master/chinese_hand_write_rec/src) - Handwritten chinese recognition.
