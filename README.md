@@ -50,7 +50,6 @@
 - [Captcha_break](https://github.com/ypwhs/captcha_break) - Captcha break using CNN with Keras.
 - [Simple-captcha-solver](https://github.com/ptigas/simple-captcha-solver) - Simple CAPTCHA solver in python 🐍.
 - [SimGAN-Captcha](https://github.com/rickyhan/SimGAN-Captcha) - Solve captcha without manually labeling a training set.
-- [Captcha](https://github.com/HLearning/captcha) - Crack captcha using CNN.
 - [Captcha.irctc](https://github.com/arunpatala/captcha.irctc) - Reading irctc captchas with 98% accuracy using deep learning.
 - [Captcha-tensorflow](https://github.com/JackonYang/captcha-tensorflow) - Image Captcha Solving Using TensorFlow and CNN Model.
 - [CNN_keras](https://github.com/skyduy/CNN_keras) - CNN | Keras | CAPTCHA recognition（卷积神经网络、Keras框架、验证码识别）.
