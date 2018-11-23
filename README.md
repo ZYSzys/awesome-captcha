@@ -31,14 +31,14 @@
 
 
 ## Generation
-- [Captcha](https://github.com/dchest/captcha) - Go package captcha implements generation and verification of image and audio CAPTCHAs.
-- [Captcha](https://github.com/lepture/captcha) - A captcha library that generates audio and image CAPTCHAs.
-- [SVG-captcha](https://github.com/lemonce/svg-captcha) - Generate svg captcha in Node.js.
-- [Ccap](https://github.com/DoubleSpout/ccap) - Node.js generate captcha using c++ library CImg without install any other lib or software.
-- [Captchagen](https://github.com/contra/captchagen) - Captcha generation for Node.js.
-- [CaptchaImageView](https://github.com/jineshfrancs/CaptchaImageView) - Custom ImageView to generate captcha image.
-- [SwipeCaptcha](https://github.com/mcxtzhang/SwipeCaptcha) - Swipe captcha of Android platform.
-- [Base64Captcha](https://github.com/mojocn/base64Captcha) - Golang base64-captcha supports digits, numbers,alphabet, arithmetic, audio and digit-alphabet captcha.
+- [dchest/captcha](https://github.com/dchest/captcha) - Go package captcha implements generation and verification of image and audio CAPTCHAs.
+- [lepture/captcha](https://github.com/lepture/captcha) - A captcha library that generates audio and image CAPTCHAs.
+- [lemonce/svg-captcha](https://github.com/lemonce/svg-captcha) - Generate svg captcha in Node.js.
+- [DoubleSpout/ccap](https://github.com/DoubleSpout/ccap) - Node.js generate captcha using c++ library CImg without install any other lib or software.
+- [contra/captchagen](https://github.com/contra/captchagen) - Captcha generation for Node.js.
+- [jineshfrancs/CaptchaImageView](https://github.com/jineshfrancs/CaptchaImageView) - Custom ImageView to generate captcha image.
+- [mcxtzhang/SwipeCaptcha](https://github.com/mcxtzhang/SwipeCaptcha) - Swipe captcha of Android platform.
+- [mojocn/base64Captcha](https://github.com/mojocn/base64Captcha) - Golang base64-captcha supports digits, numbers,alphabet, arithmetic, audio and digit-alphabet captcha.
 
 
 ## Crack
@@ -69,6 +69,7 @@
 - [Chinese-Character-Recognition](https://github.com/soloice/Chinese-Character-Recognition) - This project shows how to use CNN to perform Chinese character recognition, a much more complicated task compared to MNIST digit recognition.
 - [Zheye](https://github.com/muchrooms/zheye) - Chinese captcha recognition program for handstand character of zhihu.
 - [12306-captcha](https://github.com/aaronshan/12306-captcha) - Recognize 12306 captcha with deep learning. 
+- [nickliqian/cnn_captcha](https://github.com/nickliqian/cnn_captcha) - Use cnn recognize captcha by tensorflow.
 
 
 ## Tools
