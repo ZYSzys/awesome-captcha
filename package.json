@@ -1,0 +1,26 @@
+{
+  "name": "awesome-captcha",
+  "version": "0.0.1",
+  "description": "Curated list of awesome captcha libraries and captcha crack tools.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZYSzys/awesome-captcha.git"
+  },
+  "keywords": [
+    "awesome",
+    "captcha"
+  ],
+  "author": "ZYSzys <17367077526@163.com> (http://zyszys.top/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZYSzys/awesome-captcha/issues"
+  },
+  "homepage": "https://github.com/ZYSzys/awesome-captcha#readme",
+  "devDependencies": {
+    "awesome-lint": "0.8.0"
+  }
+}

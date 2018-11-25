@@ -4,7 +4,6 @@
 
 [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) is a type of challenge–response test used in computing to determine whether or not the user is human.  
 
-**Pull requests are welcome**
 
 [English](README.md) | [中文](README-zh.md)
 
@@ -13,10 +12,11 @@
 - [Libraries](#libraries)
 - [Generation](#generation)
 - [Crack](#crack)
-    - [General](#general)
-    - [Chinese](#chinese)
+  - [General](#general)
+  - [Chinese](#chinese)
 - [Tools](#tools)
 - [Other](#other)
+- [Maintainers](#maintainers)
 
 
 ## Libraries
