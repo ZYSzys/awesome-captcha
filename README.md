@@ -1,8 +1,8 @@
 # Awesome Captcha [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Curated list of awesome captcha libraries and captcha crack tools.  
+> Curated list of awesome captcha libraries and captcha crack tools.
 
-[CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) is a type of challenge–response test used in computing to determine whether or not the user is human.  
+[CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) is a type of challenge–response test used in computing to determine whether or not the user is human.
 
 
 [English](README.md) | [中文](README-zh.md)
@@ -44,30 +44,30 @@
 ## Crack
 
 ### General
-- [Captcha](https://github.com/arunpatala/captcha) - Breaking captchas using torch.
-- [CAPTCHA](https://github.com/zakizhou/CAPTCHA) - Implement classification for CAPTCHA in TensorFlow.
-- [Captcha-break](https://github.com/nladuo/captcha-break) - Captcha break based on opencv2, tesseract-ocr and some machine learning algorithm.
-- [Captcha_break](https://github.com/ypwhs/captcha_break) - Captcha break using CNN with Keras.
-- [Simple-captcha-solver](https://github.com/ptigas/simple-captcha-solver) - Simple CAPTCHA solver in python 🐍.
-- [SimGAN-Captcha](https://github.com/rickyhan/SimGAN-Captcha) - Solve captcha without manually labeling a training set.
-- [Captcha.irctc](https://github.com/arunpatala/captcha.irctc) - Reading irctc captchas with 98% accuracy using deep learning.
-- [Captcha-tensorflow](https://github.com/JackonYang/captcha-tensorflow) - Image Captcha Solving Using TensorFlow and CNN Model.
-- [CNN_keras](https://github.com/skyduy/CNN_keras) - CNN | Keras | CAPTCHA recognition（卷积神经网络、Keras框架、验证码识别）.
-- [Captcha_recognize](https://github.com/PatrickLib/captcha_recognize) - Image Recognition captcha without image segmentation.
-- [Captcha_svm](https://github.com/zhengwh/captcha-svm) - Use svm to hack simple captcha.
-- [Captcha_cracker](https://github.com/chxj1992/captcha_cracker) - Crack captcha with CNN.
-- [Slide_captcha_cracker](https://github.com/chxj1992/slide_captcha_cracker) - Crack solution for slide captcha with Canny algorithm.
-- [Simple-railway-captcha-solver](https://github.com/JasonLiTW/simple-railway-captcha-solver#english-version) - Simple captcha solver based on CNN and a training set generator by imitating the style of captcha.
-- [CAPTCHA-breaking](https://github.com/lllcho/CAPTCHA-breaking) - Breaking the captcha.
+- [arunpatala/captcha](https://github.com/arunpatala/captcha) - Breaking captchas using torch.
+- [zakizhou/CAPTCHA](https://github.com/zakizhou/CAPTCHA) - Implement classification for CAPTCHA in TensorFlow.
+- [nladuo/captcha-break](https://github.com/nladuo/captcha-break) - Captcha break based on opencv2, tesseract-ocr and some machine learning algorithm.
+- [ypwhs/captcha_break](https://github.com/ypwhs/captcha_break) - Captcha break using CNN with Keras.
+- [ptigas/simple-captcha-solver](https://github.com/ptigas/simple-captcha-solver) - Simple CAPTCHA solver in python 🐍.
+- [rickyhan/SimGAN-Captcha](https://github.com/rickyhan/SimGAN-Captcha) - Solve captcha without manually labeling a training set.
+- [arunpatala/captcha.irctc](https://github.com/arunpatala/captcha.irctc) - Reading irctc captchas with 98% accuracy using deep learning.
+- [JackonYang/captcha-tensorflow](https://github.com/JackonYang/captcha-tensorflow) - Image Captcha Solving Using TensorFlow and CNN Model.
+- [skyduy/CNN_keras](https://github.com/skyduy/CNN_keras) - CNN | Keras | CAPTCHA recognition（卷积神经网络、Keras框架、验证码识别）.
+- [PatrickLib/captcha_recognize](https://github.com/PatrickLib/captcha_recognize) - Image Recognition captcha without image segmentation.
+- [zhengwh/captcha-svm](https://github.com/zhengwh/captcha-svm) - Use svm to hack simple captcha.
+- [chxj1992/captcha_cracker](https://github.com/chxj1992/captcha_cracker) - Crack captcha with CNN.
+- [chxj1992/slide_captcha_cracker](https://github.com/chxj1992/slide_captcha_cracker) - Crack solution for slide captcha with Canny algorithm.
+- [JasonLiTW/simple-railway-captcha-solver#english-version](https://github.com/JasonLiTW/simple-railway-captcha-solver#english-version) - Simple captcha solver based on CNN and a training set generator by imitating the style of captcha.
+- [lllcho/CAPTCHA-breaking](https://github.com/lllcho/CAPTCHA-breaking) - Breaking the captcha.
 - [ecthros/uncaptcha](https://github.com/ecthros/uncaptcha) - Defeating Google's audio reCaptcha with 85% accuracy.
 
 
 ### Chinese
-- [Chinese_hand_write_rec](https://github.com/burness/tensorflow-101/tree/master/chinese_hand_write_rec/src) - Handwritten chinese recognition.
-- [CNN_handwritten_chinese_recognition](https://github.com/taosir/cnn_handwritten_chinese_recognition) - As the name shows, handwritten_chinese_recognition with cnn.
-- [Chinese-Character-Recognition](https://github.com/soloice/Chinese-Character-Recognition) - This project shows how to use CNN to perform Chinese character recognition, a much more complicated task compared to MNIST digit recognition.
-- [Zheye](https://github.com/muchrooms/zheye) - Chinese captcha recognition program for handstand character of zhihu.
-- [12306-captcha](https://github.com/aaronshan/12306-captcha) - Recognize 12306 captcha with deep learning. 
+- [burness/chinese_hand_write_rec](https://github.com/burness/tensorflow-101/tree/master/chinese_hand_write_rec/src) - Handwritten chinese recognition.
+- [taosir/cnn_handwritten_chinese_recognition](https://github.com/taosir/cnn_handwritten_chinese_recognition) - As the name shows, handwritten_chinese_recognition with cnn.
+- [soloice/Chinese-Character-Recognition](https://github.com/soloice/Chinese-Character-Recognition) - This project shows how to use CNN to perform Chinese character recognition, a much more complicated task compared to MNIST digit recognition.
+- [muchrooms/zheye](https://github.com/muchrooms/zheye) - Chinese captcha recognition program for handstand character of zhihu.
+- [aaronshan/12306-captcha](https://github.com/aaronshan/12306-captcha) - Recognize 12306 captcha with deep learning.
 - [nickliqian/cnn_captcha](https://github.com/nickliqian/cnn_captcha) - Use cnn recognize captcha by tensorflow.
 
 
