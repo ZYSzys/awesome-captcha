@@ -60,6 +60,7 @@
 - [JasonLiTW/simple-railway-captcha-solver#english-version](https://github.com/JasonLiTW/simple-railway-captcha-solver#english-version) - Simple captcha solver based on CNN and a training set generator by imitating the style of captcha.
 - [lllcho/CAPTCHA-breaking](https://github.com/lllcho/CAPTCHA-breaking) - Breaking the captcha.
 - [ecthros/uncaptcha](https://github.com/ecthros/uncaptcha) - Defeating Google's audio reCaptcha with 85% accuracy.
+- [dessant/buster](https://github.com/dessant/buster) - Captcha solver extension for humans and monsters.
 
 
 ### Chinese
