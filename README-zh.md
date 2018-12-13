@@ -56,6 +56,7 @@
 - [Slide_captcha_cracker](https://github.com/chxj1992/slide_captcha_cracker) - Canny算子边缘检测识别滑动验证码.
 - [Simple-railway-captcha-solver](https://github.com/JasonLiTW/simple-railway-captcha-solver#english-version) - 實作基於CNN的台鐵訂票驗證碼辨識以及驗證性高的訓練集產生器.
 - [CAPTCHA-breaking](https://github.com/lllcho/CAPTCHA-breaking)
+- [dessant/buster](https://github.com/dessant/buster) - Captcha solver extension for humans and monsters.
 
 ### Chinese
 - [Chinese_hand_write_rec](https://github.com/burness/tensorflow-101/tree/master/chinese_hand_write_rec/src) - 手写中文识别。
