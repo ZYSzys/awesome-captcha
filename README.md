@@ -94,7 +94,7 @@
 
 ## Contribute
 
-Please do! Check out the [CONTRIBUTING](CONTRIBUTING.md) file, and [open an issue](https://github.com/ZYSzys/awesome-captcha/issues/new)!
+Please do! Check out the [contributing.md](contributing.md) file, or [open an issue](https://github.com/ZYSzys/awesome-captcha/issues/new)!
 
 
 ## License
