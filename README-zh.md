@@ -1,8 +1,8 @@
 # Awesome Captcha [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Curated list of awesome captcha libraries and captcha crack tools.  
+> Curated list of awesome captcha libraries and captcha crack tools.
 
-[CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) is a type of challenge–response test used in computing to determine whether or not the user is human.  
+[CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) is a type of challenge–response test used in computing to determine whether or not the user is human.
 
 
 [English](README.md) | [中文](README-zh.md)
@@ -88,7 +88,7 @@
 
 ## Contribute
 
-Please do! Check out the [CONTRIBUTING](CONTRIBUTING.md) file, and [open an issue](https://github.com/ZYSzys/awesome-captcha/issues/new)!
+Please do! Check out the [contributing.md](contributing.md) file, or [open an issue](https://github.com/ZYSzys/awesome-captcha/issues/new)!
 
 
 ## License
