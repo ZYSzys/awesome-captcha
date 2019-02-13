@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/ZYSzys/awesome-captcha#readme",
   "devDependencies": {
-    "awesome-lint": "0.8.0"
+    "awesome-lint": "0.9.0"
   }
 }
