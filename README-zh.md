@@ -57,6 +57,7 @@
 - [Simple-railway-captcha-solver](https://github.com/JasonLiTW/simple-railway-captcha-solver#english-version) - 實作基於CNN的台鐵訂票驗證碼辨識以及驗證性高的訓練集產生器.
 - [CAPTCHA-breaking](https://github.com/lllcho/CAPTCHA-breaking)
 - [dessant/buster](https://github.com/dessant/buster) - Captcha solver extension for humans and monsters.
+- [kerlomz/captcha_trainer](https://github.com/kerlomz/captcha_trainer) - [验证码识别-训练] Based on CNN5/DenseNet+BLSTM/LSTM+CTC to realize verification code identification. Only for training the model.
 
 ### Chinese
 - [Chinese_hand_write_rec](https://github.com/burness/tensorflow-101/tree/master/chinese_hand_write_rec/src) - 手写中文识别。
