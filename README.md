@@ -5,7 +5,7 @@
 [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) is a type of challenge–response test used in computing to determine whether or not the user is human.
 
 
-[English](README.md) | [中文](README-zh.md)
+[English](README.md) | [中文](README-zh.md) | [Polish](README-pl.md)
 
 ## Contents
 
