@@ -103,6 +103,6 @@ Dołącz śmiało! Sprawdź plik [contributing.md](contributing.md) lub [otwórz
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-W zakresie, w jakim jest to możliwe na mocy prawa, [ZYSzys](https://github.com/ZYSzys) zrzekł się wszelkich praw autorskich i pokrewnych lub pokrewnych do tego dzieła.
+W zakresie, w jakim jest to możliwe na mocy prawa, [ZYSzys](https://github.com/ZYSzys) zrzekł się wszelkich praw autorskich i powiązanych lub pokrewnych do tego dzieła.
 
 Wersja polska od: @[mbiesiad](https://github.com/mbiesiad)
