@@ -40,6 +40,11 @@
 - [jineshfrancs/CaptchaImageView](https://github.com/jineshfrancs/CaptchaImageView) - Custom ImageView to generate captcha image.
 - [mcxtzhang/SwipeCaptcha](https://github.com/mcxtzhang/SwipeCaptcha) - Swipe captcha of Android platform.
 - [mojocn/base64Captcha](https://github.com/mojocn/base64Captcha) - Golang base64-captcha supports digits, numbers,alphabet, arithmetic, audio and digit-alphabet captcha.
+- [koto-bank/kocaptcha](https://github.com/koto-bank/kocaptcha) - A simple captcha service with a single API endpoint, written in Rust.
+- [Captcheck](https://captcheck.netsyms.com) - Lightweight, self-hostable CAPTCHA service written in PHP 7 and MySQL. Uses a selection of icons from Font-Awesome. Text-only accessibility mode and support for keyboard-only operation.
+- [Securimage](https://www.phpcaptcha.org) - Open-source free PHP Captcha script.
+- [Lokno/click-captcha](https://github.com/Lokno/click-captcha) - A visual, click-based CAPTCHA for human authentication.
+- [ArgoZhang/SliderCaptcha](https://github.com/ArgoZhang/SliderCaptcha) - Slider captcha supporting mobile.
 
 
 ## Crack
@@ -86,6 +91,7 @@
 ## Other
 
 - [VisualCaptcha](https://github.com/emotionLoop/visualCaptcha) - A collection of all the different versions/repos of visualCaptcha.
+- [Hashcash for PHP/JavaScript forms](https://github.com/007/hashcash-js) - An alternative to captcha to fight spam, based on proof-of-work.
 
 
 ## Maintainers
