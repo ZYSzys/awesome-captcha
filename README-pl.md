@@ -3,7 +3,7 @@
 > Wyselekcjonowana lista wspaniałych bibliotek CAPTCHA i narzędzi do łamania CAPTCHA.
 > CAPTCHA (Completely Automated Public Turing test to tell Computers and Humans Apart)
 
-[CAPTCHA](https://pl.wikipedia.org/wiki/CAPTCHA) to rodzaj techniki stosowanej jako zabezpieczenie na stronach internetowych, celem której jest dopuszczenie do przesłania danych tylko wypełnionych przez człowieka. 
+[CAPTCHA](https://pl.wikipedia.org/wiki/CAPTCHA) to rodzaj techniki stosowanej jako zabezpieczenie na stronach internetowych, celem której jest dopuszczenie do przesłania danych tylko wypełnionych przez człowieka.
 
 
 [English](README.md) | [中文](README-zh.md) | [Polish](README-pl.md)
@@ -26,7 +26,7 @@
 - [mewebstudio/captcha](https://github.com/mewebstudio/captcha) - CAPTCHA dla Laravel 5.
 - [CGregwar/Captcha](https://github.com/Gregwar/Captcha) - Biblioteka PHP CAPTCHA.
 - [trekjs/captcha](https://github.com/trekjs/captcha) - A Lightweight Pure JavaScript CAPTCHA dla Node.js. No C/C++, No ImageMagick, No Canvas.
-- [pusuo/patchca](https://github.com/pusuo/patchca) - Prosta, ale potężna biblioteka CAPTCHA napisana w Javie.
+- [patchca](https://code.google.com/archive/p/patchca) - Prosta, ale potężna biblioteka CAPTCHA napisana w Javie.
 - [google/recaptcha](https://github.com/google/recaptcha) - Biblioteka klienta PHP dla reCAPTCHA, bezpłatna usługa chroniąca twoją stronę przed spamem i nadużyciami.
 - [ambethia/recaptcha](https://github.com/ambethia/recaptcha) - ReCaptcha helpers dla aplikacji Ruby.
 - [anhskohbo/no-captcha](https://github.com/anhskohbo/no-captcha) - No CAPTCHA reCAPTCHA dla Laravel.
