@@ -24,7 +24,7 @@
 - [Captcha](https://github.com/mewebstudio/captcha) - Captcha for Laravel 5.
 - [Captcha](https://github.com/Gregwar/Captcha) - PHP Captcha library.
 - [Captcha](https://github.com/trekjs/captcha) - A Lightweight Pure JavaScript Captcha for Node.js. No C/C++, No ImageMagick, No Canvas.
-- [Patchca](https://github.com/pusuo/patchca) - Simple yet powerful CAPTCHA library written in Java.
+- [patchca](https://code.google.com/archive/p/patchca) - Simple yet powerful CAPTCHA library written in Java.
 
 
 ## Generation
