@@ -34,6 +34,7 @@
 
 
 ## Generowanie
+- [tiagorangel1/cap](https://github.com/tiagorangel1/cap) - Lightweight, modern open-source CAPTCHA alternative designed using SHA-256 proof-of-work
 - [dchest/captcha](https://github.com/dchest/captcha) - pakiet Go CAPTCHA implementuje generowanie i weryfikację obrazu i dźwięku CAPTCHA.
 - [lepture/captcha](https://github.com/lepture/captcha) - biblioteka CAPTCHA która generuje CAPTCHA audio oraz obraz.
 - [lemonce/svg-captcha](https://github.com/lemonce/svg-captcha) - generuje svg CAPTCHA w Node.js.
