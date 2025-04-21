@@ -32,6 +32,7 @@
 
 
 ## Generation
+- [tiagorangel1/cap](https://github.com/tiagorangel1/cap) - Lightweight, modern open-source CAPTCHA alternative designed using SHA-256 proof-of-work
 - [captcha-api](https://captcha-api.akshit.me) - Free, fast and reliable Captcha API POWERED BY AI
 - [dchest/captcha](https://github.com/dchest/captcha) - Go package captcha implements generation and verification of image and audio CAPTCHAs.
 - [lepture/captcha](https://github.com/lepture/captcha) - A captcha library that generates audio and image CAPTCHAs.
@@ -46,7 +47,6 @@
 - [Securimage](https://www.phpcaptcha.org) - Open-source free PHP Captcha script.
 - [Lokno/click-captcha](https://github.com/Lokno/click-captcha) - A visual, click-based CAPTCHA for human authentication.
 - [ArgoZhang/SliderCaptcha](https://github.com/ArgoZhang/SliderCaptcha) - Slider captcha supporting mobile.
-
 
 ## Crack
 

@@ -28,6 +28,7 @@
 
 
 ## Generation
+- [tiagorangel1/cap](https://github.com/tiagorangel1/cap) - Lightweight, modern open-source CAPTCHA alternative designed using SHA-256 proof-of-work
 - [Captcha](https://github.com/dchest/captcha) - Go package captcha implements generation and verification of image and audio CAPTCHAs.
 - [Captcha](https://github.com/lepture/captcha) - A captcha library that generates audio and image CAPTCHAs.
 - [SVG-captcha](https://github.com/lemonce/svg-captcha) - 用node生成svg格式的验证码.
