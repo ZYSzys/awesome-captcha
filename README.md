@@ -28,6 +28,7 @@
 - [google/recaptcha](https://github.com/google/recaptcha) - PHP client library for reCAPTCHA, a free service to protect your website from spam and abuse.
 - [ambethia/recaptcha](https://github.com/ambethia/recaptcha) - ReCaptcha helpers for ruby apps.
 - [anhskohbo/no-captcha](https://github.com/anhskohbo/no-captcha) - No CAPTCHA reCAPTCHA For Laravel.
+- [captchaapi/laravel](https://github.com/captchaapi/laravel) - Official Laravel SDK for captchaapi.eu, an EU-hosted GDPR-compliant proof-of-work CAPTCHA with native Livewire support.
 - [lorien/captcha_solver](https://github.com/lorien/captcha_solver) - Universal python API to different captcha solving services.
 
 
