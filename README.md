@@ -80,6 +80,7 @@
 
 
 ## Tools
+- [UnblockAPI](https://unblockapi.com) - Multi-service API for AI agents with captcha solving for 40+ types (reCAPTCHA v2/v3, hCaptcha, Turnstile, FunCaptcha, GeeTest, Cloudflare, and more). Flat pricing $0.10/solve. 5 free calls, no credit card.
 
 - [Tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine.
 - [MotionCAPTCHA](https://github.com/wjcrowcroft/MotionCAPTCHA) - MotionCAPTCHA jQuery Plugin - Stop Spam, Draw Shapes.
