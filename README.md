@@ -29,6 +29,7 @@
 - [ambethia/recaptcha](https://github.com/ambethia/recaptcha) - ReCaptcha helpers for ruby apps.
 - [anhskohbo/no-captcha](https://github.com/anhskohbo/no-captcha) - No CAPTCHA reCAPTCHA For Laravel.
 - [lorien/captcha_solver](https://github.com/lorien/captcha_solver) - Universal python API to different captcha solving services.
+- [CapMonsterCloud/capmonster-python-captcha-solver](https://github.com/CapMonsterCloud/capmonster-python-captcha-solver) - Python library for CapMonster Cloud API to automate CAPTCHA solving (Cloudflare Turnstile, reCAPTCHA, and image recognition).
 
 
 ## Generation
