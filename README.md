@@ -30,6 +30,7 @@
 - [anhskohbo/no-captcha](https://github.com/anhskohbo/no-captcha) - No CAPTCHA reCAPTCHA For Laravel.
 - [lorien/captcha_solver](https://github.com/lorien/captcha_solver) - Universal python API to different captcha solving services.
 - [CapMonsterCloud/capmonster-python-captcha-solver](https://github.com/CapMonsterCloud/capmonster-python-captcha-solver) - Python library for CapMonster Cloud API to automate CAPTCHA solving (Cloudflare Turnstile, reCAPTCHA, and image recognition).
+- [WebDecoy/FCaptcha](https://github.com/WebDecoy/FCaptcha) - Self-hosted, invisible CAPTCHA that detects bots and AI agents via behavioral analysis, TLS fingerprinting, and SHA-256 proof of work. Checkbox or invisible mode; Go, Python, and Node.js servers.
 
 
 ## Generation
@@ -47,6 +48,7 @@
 - [Securimage](https://www.phpcaptcha.org) - Open-source free PHP Captcha script.
 - [Lokno/click-captcha](https://github.com/Lokno/click-captcha) - A visual, click-based CAPTCHA for human authentication.
 - [ArgoZhang/SliderCaptcha](https://github.com/ArgoZhang/SliderCaptcha) - Slider captcha supporting mobile.
+- [PrivateCaptcha](https://github.com/PrivateCaptcha/PrivateCaptcha) - Proof-of-Work captcha, written in Go.
 
 
 ## Crack
