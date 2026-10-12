@@ -95,6 +95,7 @@
 
 - [VisualCaptcha](https://github.com/emotionLoop/visualCaptcha) - A collection of all the different versions/repos of visualCaptcha.
 - [Hashcash for PHP/JavaScript forms](https://github.com/007/hashcash-js) - An alternative to captcha to fight spam, based on proof-of-work.
+- [IPScanner form gate](https://ipscanner.io/captcha-alternative) - A captcha alternative with no puzzle: a script tag on the form and a server-side verify call that classifies the visitor as human, bot, Tor, VPN or proxy.
 
 
 ## Maintainers
