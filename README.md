@@ -30,6 +30,7 @@
 - [anhskohbo/no-captcha](https://github.com/anhskohbo/no-captcha) - No CAPTCHA reCAPTCHA For Laravel.
 - [lorien/captcha_solver](https://github.com/lorien/captcha_solver) - Universal python API to different captcha solving services.
 - [WebDecoy/FCaptcha](https://github.com/WebDecoy/FCaptcha) - Self-hosted, invisible CAPTCHA that detects bots and AI agents via behavioral analysis, TLS fingerprinting, and SHA-256 proof of work. Checkbox or invisible mode; Go, Python, and Node.js servers.
+- [cloudscraper-turnstile](https://github.com/CircuitSavage/cloudscraper-turnstile) - Drop-in `requests.Session` replacement for Python that solves Cloudflare Turnstile challenges via a hosted solving API.
 
 
 ## Generation
@@ -72,6 +73,7 @@
 - [dessant/buster](https://github.com/dessant/buster) - Captcha solver extension for humans and monsters.
 - [kerlomz/captcha_trainer](https://github.com/kerlomz/captcha_trainer) - Based on CNN5/DenseNet+BLSTM/LSTM+CTC to realize verification code identification. Only for training the model.
 - [NoneCap](https://nonecap.com/) - Hosted hCaptcha solver API (regular, invisible and enterprise sitekeys) with Node.js and Python SDKs.
+- [Peak](https://peak.fo/) - Hosted CAPTCHA solving API specializing in Cloudflare Turnstile (also reCAPTCHA v2/v3 and hCaptcha); pay-per-solve, proxyless option, with Python and Node.js SDKs.
 
 ### Chinese
 - [burness/chinese_hand_write_rec](https://github.com/burness/tensorflow-101/tree/master/chinese_hand_write_rec/src) - Handwritten chinese recognition.
