@@ -48,6 +48,7 @@
 - [Lokno/click-captcha](https://github.com/Lokno/click-captcha) - A visual, click-based CAPTCHA for human authentication.
 - [ArgoZhang/SliderCaptcha](https://github.com/ArgoZhang/SliderCaptcha) - Slider captcha supporting mobile.
 - [PrivateCaptcha](https://github.com/PrivateCaptcha/PrivateCaptcha) - Proof-of-Work captcha, written in Go.
+- [MetaAgentX/NextGen-CAPTCHAs](https://github.com/MetaAgentX/NextGen-CAPTCHAs) - A framework that generates CAPTCHAs and tests whether web GUI agents can solve them.
 
 
 ## Crack
