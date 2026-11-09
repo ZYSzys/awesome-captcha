@@ -25,6 +25,7 @@
 - [Captcha](https://github.com/Gregwar/Captcha) - PHP Captcha library.
 - [Captcha](https://github.com/trekjs/captcha) - A Lightweight Pure JavaScript Captcha for Node.js. No C/C++, No ImageMagick, No Canvas.
 - [patchca](https://code.google.com/archive/p/patchca) - Simple yet powerful CAPTCHA library written in Java.
+- [WebDecoy/FCaptcha](https://github.com/WebDecoy/FCaptcha) - 可自行部署的开源验证码，通过行为与浏览器信号及工作量证明识别机器人和 AI 浏览器自动化。支持复选框与无感模式，提供 Go、Python 和 Node.js 服务端。
 
 
 ## Generation
